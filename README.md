@@ -7,6 +7,6 @@
   * docker inspect
   * docker commit
 # docker网络原理
-  * 四种模式：
+  * 四种模式：bridge桥接（默认）、none、container、hostonly
   * docker0 网卡
   * veth-pair 技术
